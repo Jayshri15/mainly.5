@@ -1,0 +1,91 @@
+body {
+    background-color: #F9FAFB;
+    margin: 0 6rem;
+    /* display: inline-block; */
+
+}
+
+
+
+.heder {
+    background-color: Fuchsia;
+    color: white;
+    padding: .5rem;
+    /* text-align: left; */
+    border-bottom-left-radius: 44px;
+}
+
+.hed-link {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    border-bottom-left-radius: 1rem;
+
+
+}
+
+.sandesh {
+    text-align: center;
+    padding: 2rem 0;
+
+}
+
+.akki {
+    text-align: center;
+}
+
+.adarsh {
+    color: red;
+    text-align: center;
+}
+
+footer {
+    background-color:Fuchsia;
+    color: white;
+    padding-bottom: 3rem;
+    padding-right: 1rem;
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.nav {
+
+    text-align: center;
+    text-decoration: none;
+    background-color:Fuchsia;
+    padding: 0.5rem;
+    color: cornsilk;
+    border-radius: 0.5rem;
+
+}
+
+
+.akash {
+    text-decoration: none;
+    color: white;
+    padding-right: 2rem;
+}
+
+.pro-los {
+    font-size: 1.9rem;
+    margin-bottom: 0.2rem;
+}
+
+.back {
+    background-color: rgb(255, 255, 255);
+    padding: 1.2rem;
+    border-radius: 1rem;
+}
+.para{
+    margin-bottom: 1.5rem;
+    font-size: 19px;
+}
+.new{
+    border-color: white;
+    border:1px solid Fuchsia	;
+    border-radius: 1rem;
+    padding:0.5rem;
+    text-decoration: none;
+    color: black
+
+}
